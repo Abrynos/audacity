@@ -1,3 +1,11 @@
+Forked from audacity/audacity
+
+History kept at 30th of April 2021 - The date at which the aquisition by Muse was announced
+
+In hope I never need this and a properly maintained fork crystallizes out
+
+--------------------------------------------------------------------------------
+
 Audacity(R): free, open source, cross-platform audio software for 
 multi-track recording and editing: https://www.audacityteam.org/ . 
 

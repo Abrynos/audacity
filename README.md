@@ -1,3 +1,11 @@
+#### Forked from audacity/audacity
+
+#### History kept at 30th of April 2021 - The date at which the aquisition by Muse was announced
+
+#### In hope I never need this and a properly maintained fork crystallizes out
+
+---
+
 [![Audacity](https://forum.audacityteam.org/styles/prosilver/theme/images/Audacity-logo_75px_trans_forum.png)](https://www.audacityteam.org) 
 =========================
 
